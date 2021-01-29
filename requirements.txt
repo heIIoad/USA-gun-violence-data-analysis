@@ -1,0 +1,10 @@
+gmaps
+plotly
+wordcloud
+openpyxl
+wheel
+pandas
+xlrd
+ipykernel
+scikit-learn
+matplotlib
